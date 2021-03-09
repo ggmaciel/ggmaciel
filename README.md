@@ -1,5 +1,5 @@
 <h2>Hi! I'm Gustavo Maciel :raised_hand: :computer:<h2 />
-<a src="<img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white" />" a/>
+<a href="https://www.linkedin.com/in/gustavo-maciel-4283a31b3/"><img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white" />" <a/>
 
 
 <h2>SKILLS<h2/>
