@@ -1,3 +1,3 @@
-<h3>SKILLS<h3/>
+<h2>SKILLS<h2/>
 
 <img src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-fbe71b?logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3182ce?logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-06c7f9?logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-0d5ef2?logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-ff2e00?logo=HTML5&logoColor=white" />
