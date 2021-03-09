@@ -1,6 +1,5 @@
-<h3>Hi! I'm Gustavo Maciel<h3>
+<h3>Hi! I'm Gustavo Maciel:computer:<h3>
 ________________________________________________________________________________________
-
 <a href="https://www.linkedin.com/in/gustavo-maciel-4283a31b3/"><img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white"/> <a/>
 
 
