@@ -1,4 +1,4 @@
-<h2>Hi! I'm Gustavo Maciel<h2 />
+<h2>Hi! I'm Gustavo Maciel<h2 /> :computer:
 <img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white" />
 
 
