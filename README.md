@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/gustavo-maciel-4283a31b3/"><img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white"/> <a/>
 
 
-<h5>:page_with_curl: I am a full-stack developer whos passionate about movies, music and code.</h5>
+<h3>:page_with_curl: I am a full-stack developer whos passionate about movies, music and code.</h3>
 
 
 <h2>Skills<h2/>
