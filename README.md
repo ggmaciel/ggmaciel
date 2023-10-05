@@ -1,9 +1,12 @@
-<h2>Hi! I'm Gustavo Maciel:computer:<h2>
-<a href="https://www.linkedin.com/in/gustavo-maciel-4283a31b3/"><img src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white"/> <a/>
+<h2>Hi! I'm Gustavo Maciel 💻</h2>
+<a href="https://www.linkedin.com/in/gustavoaraujomaciel"><img width="11%" src="https://img.shields.io/badge/LinkedIn-3e76c1?logo=LinkedIn&logoColor=white"/></a>
 
+<br/>💬 I'm a software engineer from Recife who's passionate about movies, music and code.
 
-<h4>:page_with_curl: I am a software engineer from Brazil whos passionate about movies, music and code.</h4>
-
-
-<h2>Skills<h2/>
-<img src="https://img.shields.io/badge/Java-orange?logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-brightgreen?logo=Spring&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-fbe71b?logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3182ce?logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-06c7f9?logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-0d5ef2?logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-ff2e00?logo=HTML5&logoColor=white"/>
+<h2>Skills</h2>
+<div style="display: inline_block" align="left"><br>
+  <img align="center" alt="Java" width="8.5%" src="https://img.shields.io/badge/Java-orange?logo=buymeacoffee&logoColor=white">
+  <img align="center" alt="Java" width="9%" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=Kotlin&logoColor=white">
+  <img align="center" alt="Java" width="10%" src="https://img.shields.io/badge/-Golang-00ADD8?logo=Go&logoColor=white">
+  <img align="center" alt="Java" width="10%" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white">
+</div>
